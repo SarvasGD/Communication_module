@@ -1,0 +1,142 @@
+/* styles.css — экран «Модуль общения» */
+
+* {
+  box-sizing: border-box;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, "Segoe UI", Arial, sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #f1f5f9;
+  color: #0f172a;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+img {
+  -webkit-user-drag: none;
+  user-drag: none;
+}
+
+/* Верхняя полоса 72 px */
+#topbar {
+  flex: 0 0 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  background: #ffffff;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+#backBtn {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: inherit;
+  padding: 8px 24px;
+  min-width: 150px;
+  border: 3px solid #94a3b8;
+  border-radius: 12px;
+  background: #f8fafc;
+  color: #0f172a;
+  cursor: pointer;
+}
+
+#backBtn:active {
+  background: #e2e8f0;
+}
+
+/* Кнопка всегда на том же месте: скрываем через visibility, не через display. */
+#backBtn.is-hidden {
+  visibility: hidden;
+}
+
+#topbar-right {
+  min-width: 150px;
+  height: 100%;
+}
+
+/* Сетка плиток на весь оставшийся экран, без прокрутки */
+#screen {
+  flex: 1 1 auto;
+  display: grid;
+  gap: 12px;
+  padding: 12px;
+  overflow: hidden;
+}
+
+.tile {
+  border: 4px solid #cbd5e1;
+  border-radius: 16px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 120ms ease, border-color 120ms ease;
+}
+
+.tile.no-image {
+  background: #bfdbfe;
+}
+
+.tile img {
+  flex: 1 1 auto;
+  min-height: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+.tile .label {
+  font-size: clamp(28px, 2.4vw, 44px);
+  font-weight: 700;
+  line-height: 1.05;
+  text-align: center;
+  word-break: break-word;
+}
+
+/* Подсветка по клику: рамка #1d4ed8 и лёгкое увеличение на 300 мс */
+.tile.active {
+  border-color: #1d4ed8 !important;
+  transform: scale(1.04);
+}
+
+/* Крупное сообщение об ошибке разбора */
+#errorBox {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  background: #ffffff;
+  color: #b91c1c;
+  font-size: clamp(28px, 4vw, 48px);
+  font-weight: 700;
+  text-align: center;
+  white-space: pre-wrap;
+}
