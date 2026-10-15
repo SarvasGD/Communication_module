@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Кушать">
-<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-<path d="M34 22 V44 M42 22 V44 M50 22 V44"/>
-<path d="M34 44 Q42 56 50 44"/>
-<path d="M42 56 V96"/>
-<ellipse cx="80" cy="34" rx="11" ry="15"/>
-<path d="M80 49 V96"/>
-</g>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Туалет">
-<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-<rect x="30" y="16" width="24" height="26" rx="4"/>
-<path d="M34 50 H88"/>
-<path d="M40 50 Q40 84 64 84 Q88 84 88 54"/>
-<path d="M56 84 V98 H76 V80"/>
-</g>
-</svg>

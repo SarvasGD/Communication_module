@@ -9,118 +9,118 @@
 
 ## Пить
 - id: drink
-- картинка: img/drink.svg
+- картинка: img/drink.png
 
 ## Кушать
 - id: eat
-- картинка: img/eat.svg
+- картинка: img/eat.png
 
 ## Туалет
 - id: toilet
-- картинка: img/toilet.svg
+- картинка: img/toilet.png
 
 ## Сон
 - id: sleep
-- картинка: img/sleep.svg
+- картинка: img/sleep.png
 
 ## Тишина
 - id: quiet
-- картинка: img/quiet.svg
+- картинка: img/quiet.png
 
 ## Музыка
 - id: music
-- картинка: img/music.svg
+- картинка: img/music.png
 
 ## Мультики
 - id: cartoons
-- картинка: img/cartoons.svg
+- картинка: img/cartoons.png
 
 ### Мультфильм 1
 - id: cartoon1
-- картинка: img/cartoon1.svg
+- картинка: img/cartoon1.png
 
 ### Мультфильм 2
 - id: cartoon2
-- картинка: img/cartoon2.svg
+- картинка: img/cartoon2.png
 
 ### Мультфильм 3
 - id: cartoon3
-- картинка: img/cartoon3.svg
+- картинка: img/cartoon3.png
 
 ## Улица/прогулка
 - id: outside
-- картинка: img/outside.svg
+- картинка: img/outside.png
 - текст_озвучки: Гулять
 
 ## Балкон
 - id: balcony
-- картинка: img/balcony.svg
+- картинка: img/balcony.png
 
 ## Играть
 - id: play
-- картинка: img/play.svg
+- картинка: img/play.png
 
 ## Внимание
 - id: attention
-- картинка: img/attention.svg
+- картинка: img/attention.png
 
 ## Болит
 - id: pain
-- картинка: img/pain.svg
+- картинка: img/pain.png
 
 ### Голова
 - id: pain_head
-- картинка: img/pain_head.svg
+- картинка: img/pain_head.png
 
 ### Живот
 - id: pain_belly
-- картинка: img/pain_belly.svg
+- картинка: img/pain_belly.png
 
 ### Зуб
 - id: pain_tooth
-- картинка: img/pain_tooth.svg
+- картинка: img/pain_tooth.png
 
 ### Горло
 - id: pain_throat
-- картинка: img/pain_throat.svg
+- картинка: img/pain_throat.png
 
 ### Ухо
 - id: pain_ear
-- картинка: img/pain_ear.svg
+- картинка: img/pain_ear.png
 
 ### Рука
 - id: pain_arm
-- картинка: img/pain_arm.svg
+- картинка: img/pain_arm.png
 
 ### Нога
 - id: pain_leg
-- картинка: img/pain_leg.svg
+- картинка: img/pain_leg.png
 
 ### Спина
 - id: pain_back
-- картинка: img/pain_back.svg
+- картинка: img/pain_back.png
 
 ## Да
 - id: yes
-- картинка: img/yes.svg
+- картинка: img/yes.png
 - рамка: #2b6cb0
 
 ## Нет
 - id: no
-- картинка: img/no.svg
+- картинка: img/no.png
 - рамка: #2b6cb0
 
 ## Не хочу
 - id: dont_want
-- картинка: img/dont_want.svg
+- картинка: img/dont_want.png
 - рамка: #2b6cb0
 
 ## Хватит
 - id: enough
-- картинка: img/enough.svg
+- картинка: img/enough.png
 - рамка: #2b6cb0
 
 ## Помоги
 - id: help
-- картинка: img/help.svg
+- картинка: img/help.png
 - рамка: #2b6cb0

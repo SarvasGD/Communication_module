@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Прогулка">
-<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-<path d="M18 96 H102"/>
-<path d="M44 96 V62"/>
-<circle cx="44" cy="44" r="20"/>
-<circle cx="88" cy="30" r="10"/>
-<path d="M88 12 V6 M88 54 V48 M70 30 H64 M112 30 H106 M75 17 L71 13 M101 43 L105 47 M101 17 L105 13 M75 43 L71 47"/>
-</g>
-</svg>

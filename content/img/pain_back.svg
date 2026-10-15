@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Спина">
-<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-<path d="M42 18 Q40 50 52 62 Q64 74 64 100" stroke-width="10"/>
-<circle cx="42" cy="14" r="9"/>
-<path d="M88 55 L75 76 L83 76 L78 89 L91 69 L83 69 Z" fill="#dc2626" stroke="#dc2626" stroke-width="3" stroke-linejoin="round"/>
-</g>
-</svg>
