@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Внимание">
+<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M60 20 L104 98 H16 Z" stroke="#d97706"/>
+<path d="M60 48 V72" stroke="#d97706"/>
+<circle cx="60" cy="85" r="5" fill="#d97706" stroke="#d97706"/>
+</g>
+</svg>

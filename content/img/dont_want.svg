@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Не хочу">
+<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="60" cy="28" r="14"/>
+<path d="M28 62 L92 90 M92 62 L28 90" stroke-width="11"/>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Помоги">
+<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="60" cy="60" r="38"/>
+<circle cx="60" cy="60" r="16"/>
+<path d="M60 22 V44 M60 76 V98 M22 60 H44 M76 60 H98"/>
+</g>
+</svg>

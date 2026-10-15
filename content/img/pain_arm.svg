@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Рука">
+<g fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M32 26 L62 54 L52 88" stroke-width="10"/>
+<circle cx="52" cy="96" r="7"/>
+<path d="M86 35 L73 56 L81 56 L76 69 L89 49 L81 49 Z" fill="#dc2626" stroke="#dc2626" stroke-width="3" stroke-linejoin="round"/>
+</g>
+</svg>
